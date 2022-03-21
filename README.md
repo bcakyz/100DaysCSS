@@ -1,4 +1,4 @@
-![100daysCSS Logo](logo.PNG)
+![100daysCSS Logo](logo.png)
 
 # 100daysCSS
 My attempt at  100 Days CSS Challenge. Inspired by [Matthias Martin](https://100Dayscss.com/). 
